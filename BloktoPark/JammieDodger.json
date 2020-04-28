@@ -1,4 +1,17 @@
 {
   "Name": "JammieDodger's Catalogue",
-  "Assets": []
+  "Assets": [
+    {
+      "ID": "BloktoParkv1.1_noshadow.zip",
+      "IDWithoutExtension": "BloktoParkv1.1_noshadow",
+      "Name": "Blokto Park v1.1 - No Shadows",
+      "Description": "Get your Bloktober on with BloktoPark. Small indoor park.\r\nNow compatible with 0.0.0.5!\r\nIf the map seems too bright or too dark try setting your PostProcessing settings to Medium or High.",
+      "Version": 1.1,
+      "Author": "JammieDodger",
+      "DownloadLink": "rsmm://GDrive/1TTX_EsWF2VLQTrrOd85lqWgoCCEEkTeG",
+      "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_maps/master/BloktoPark/Screenshots/Blokto_Screenshot_1.1_noshadows.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-04-28T04:37:45.8953037+01:00"
+    }
+  ]
 }
