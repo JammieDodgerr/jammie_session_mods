@@ -1,0 +1,41 @@
+{
+  "Name": "JammieDodger's Catalogue",
+  "Assets": [
+    {
+      "ID": "BloktoParkv1.1_noshadow.zip",
+      "IDWithoutExtension": "BloktoParkv1.1_noshadow",
+      "Name": "Blokto Park v1.1 - No Shadows",
+      "Description": "Get your Bloktober on with BloktoPark. Small indoor park.\r\nNow compatible with 0.0.0.5!\r\nIf the map seems too bright or too dark try setting your PostProcessing settings to Medium or High.",
+      "Version": 1.1,
+      "Author": "JammieDodger",
+      "DownloadLink": "rsmm://GDrive/1TTX_EsWF2VLQTrrOd85lqWgoCCEEkTeG",
+      "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_maps/master/BloktoPark/Screenshots/Blokto_Screenshot_1.1_noshadows.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-04-28T04:37:45.8953037+01:00"
+    },
+    {
+      "ID": "BloktoParkv1.2.zip",
+      "IDWithoutExtension": "BloktoParkv1.2",
+      "Name": "Blokto Park v1.2",
+      "Description": "Get your Bloktober on with BloktoPark. Small indoor park.\r\nNow compatible with 0.0.0.5!\r\nOPTIONAL:\r\nFix for the decals not showing (wax & wheel marks).\r\nGo to your Session\\SessionGame\\Config\\UserEngine.ini file and add the following lines:\r\n\r\n[/Script/Engine.RendererSettings]\r\nr.DBuffer = True\r\n\r\nI haven't noticed any issues using this so far but if anything goes wrong try changing the True to False (or delete the lines from your UserEngine.ini).",
+      "Version": 1.2,
+      "Author": "JammieDodger",
+      "DownloadLink": "rsmm://GDrive/1Y7Yk3le-UZsOJD2hb7Hi5lO7K0GcSL1c",
+      "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_maps/master/BloktoPark/Screenshots/Blokto_Screenshot_1.2.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-05-08T23:00:00Z"
+    },
+    {
+      "ID": "Marty_McFly.zip",
+      "IDWithoutExtension": "Marty_McFly",
+      "Name": "Marty McFly",
+      "Description": "",
+      "Version": 1,
+      "Author": "JammieDodger",
+      "DownloadLink": "rsmm://GDrive/1Y7Yk3le-UZsOJD2hb7Hi5lO7K0GcSL1c",
+      "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_maps/master/BloktoPark/Screenshots/Blokto_Screenshot_1.2.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-08-27T00:58:00Z"
+    }
+  ]
+}
