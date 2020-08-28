@@ -29,13 +29,25 @@
       "ID": "Marty_McFly.zip",
       "IDWithoutExtension": "Marty_McFly",
       "Name": "Marty McFly",
-      "Description": "Marty McFly from Back to the Future: The Game.\r\nReplaces Ribsman, 4.24 compatible.\r\n\r\nThanks to Abaddon & Redgouf for the tutorials!\r\nOriginally ripped by Olivercomet.",
+      "Description": "Marty McFly from Back to the Future: The Game.\r\nReplaces Ribsman, 4.24 compatible.\r\n\r\nThanks to Abbadon & Redgouf for the tutorials!\r\nOriginally ripped by Olivercomet.",
       "Version": 1.0,
       "Author": "JammieDodger",
       "DownloadLink": "rsmm://GDrive/1OcU-mR3ktWmqC-CcUawQQZxft5P6ZbyS",
       "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_mods/master/Marty_Mcfly/Marty.png",
       "Category": "session-meshes",
-      "UpdatedDate": "2020-08-27T00:13:36.6879762Z"
+      "UpdatedDate": "2020-08-27T01:13:36.6879762+01:00"
+    },
+    {
+      "ID": "BTTF_pack.zip",
+      "IDWithoutExtension": "BTTF_pack",
+      "Name": "Back to the Future Pack",
+      "Description": "Marty McFly: JammieDodger\r\nReplaces Ribsman, originally ripped by Olivercomet.\r\n\r\nHoverboard: HVRLEM710\r\nReplaces Heroin Curb Crusher and the Default Grip.\r\n\r\nInvisible Trucks & Wheels: Abaddon\r\nReplaces the \"None\" Trucks and the last wheel option (Radial Wide 56mm).",
+      "Version": 1.0,
+      "Author": "JammieDodger/HVRLEM710/Abaddon",
+      "DownloadLink": "rsmm://GDrive/1p79MKvcxhSHtjzlZGBpXphBbX_VfQ0J4",
+      "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_mods/master/Marty_Mcfly/Screenshot_2121.png",
+      "Category": "session-meshes",
+      "UpdatedDate": "2020-08-28T16:42:35.8611763Z"
     }
   ]
 }
