@@ -48,6 +48,18 @@
       "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_mods/master/Marty_Mcfly/Screenshot_2121.png",
       "Category": "session-characters",
       "UpdatedDate": "2020-08-28T17:42:35.8611763+01:00"
+    },
+    {
+      "ID": "BTTF_pack_v2.zip",
+      "IDWithoutExtension": "BTTF_pack_v2",
+      "Name": "Back to the Future Pack v2",
+      "Description": "Marty McFly: JammieDodger\r\nReplaces Ribsman, originally ripped by Olivercomet.\r\n\r\n3D Hoverboard: Khelldon\r\nReplaces Heroin Toxic Eyes, Default Trucks 01 and 02 and all wheels.",
+      "Version": 2.0,
+      "Author": "JammieDodger/Khelldon",
+      "DownloadLink": "rsmm://GDrive/13ybQkPIGPWy5_D48Mlz2GdzDsFXJpuXW",
+      "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_mods/master/Marty_Mcfly/Marty3.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2020-11-13T03:12:29.0667719Z"
     }
   ]
 }
