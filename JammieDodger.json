@@ -1,0 +1,65 @@
+{
+  "Name": "JammieDodger's Catalogue",
+  "Assets": [
+    {
+      "ID": "BloktoParkv1.2.zip",
+      "PathToDownloadedImage": "E:\\Games\\Session\\Session Mod Manager\\store_data\\thumbnails\\BloktoParkv1.2",
+      "Name": "Blokto Park v1.2",
+      "Description": "Get your Bloktober on with BloktoPark. Small indoor park.\r\nNow compatible with 0.0.0.5!\r\nOPTIONAL:\r\nFix for the decals not showing (wax & wheel marks).\r\nGo to your Session\\SessionGame\\Config\\UserEngine.ini file and add the following lines:\r\n\r\n[/Script/Engine.RendererSettings]\r\nr.DBuffer = True\r\n\r\nI haven't noticed any issues using this so far but if anything goes wrong try changing the True to False (or delete the lines from your UserEngine.ini).",
+      "Version": 1.2,
+      "Author": "JammieDodger",
+      "DownloadLink": "rsmm://GDrive/1Y7Yk3le-UZsOJD2hb7Hi5lO7K0GcSL1c",
+      "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_mods/master/BloktoPark/Screenshots/Blokto_Screenshot_1.2.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2020-05-09T00:00:00+01:00"
+    },
+    {
+      "ID": "Marty_McFly.zip",
+      "PathToDownloadedImage": "E:\\Games\\Session\\Session Mod Manager\\store_data\\thumbnails\\Marty_McFly",
+      "Name": "Marty McFly",
+      "Description": "Marty McFly from Back to the Future: The Game.\r\nReplaces Ribsman, 4.24 compatible.\r\n\r\nThanks to Abbadon & Redgouf for the tutorials!\r\nOriginally ripped by Olivercomet.",
+      "Version": 1.0,
+      "Author": "JammieDodger",
+      "DownloadLink": "rsmm://GDrive/1OcU-mR3ktWmqC-CcUawQQZxft5P6ZbyS",
+      "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_mods/master/Marty_Mcfly/Marty.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2020-08-27T01:13:36.6879762+01:00"
+    },
+    {
+      "ID": "BTTF_pack.zip",
+      "PathToDownloadedImage": "E:\\Games\\Session\\Session Mod Manager\\store_data\\thumbnails\\BTTF_pack",
+      "Name": "Back to the Future Pack",
+      "Description": "Marty McFly: JammieDodger\r\nReplaces Ribsman, originally ripped by Olivercomet.\r\n\r\nHoverboard: HVRLEM710\r\nReplaces Heroin Curb Crusher and the Default Grip.\r\n\r\nInvisible Trucks & Wheels: Abaddon\r\nReplaces the \"None\" Trucks and the last wheel option (Radial Wide 56mm).",
+      "Version": 1.0,
+      "Author": "JammieDodger/HVRLEM710/Abaddon",
+      "DownloadLink": "rsmm://GDrive/1p79MKvcxhSHtjzlZGBpXphBbX_VfQ0J4",
+      "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_mods/master/Marty_Mcfly/Screenshot_2121.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2020-08-28T17:42:35.8611763+01:00"
+    },
+    {
+      "ID": "BTTF_pack_v2.zip",
+      "PathToDownloadedImage": "E:\\Games\\Session\\Session Mod Manager\\store_data\\thumbnails\\BTTF_pack_v2",
+      "Name": "Back to the Future Pack v2",
+      "Description": "Marty McFly: JammieDodger\r\nReplaces Ribsman, originally ripped by Olivercomet.\r\n\r\n3D Hoverboard: Khelldon\r\nReplaces Heroin Toxic Eyes, Default Trucks 01 and 02 and all wheels.",
+      "Version": 2.0,
+      "Author": "JammieDodger/Khelldon",
+      "DownloadLink": "rsmm://GDrive/13ybQkPIGPWy5_D48Mlz2GdzDsFXJpuXW",
+      "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_mods/master/Marty_Mcfly/Marty3.png",
+      "Category": "session-characters",
+      "UpdatedDate": "2020-11-13T03:12:29.0667719+00:00"
+    },
+    {
+      "ID": "Blokto_Park_v2.zip",
+      "PathToDownloadedImage": "E:\\Games\\Session\\Session Mod Manager\\store_data\\thumbnails\\Blokto_Park_v2",
+      "Name": "Blokto Park v2",
+      "Description": "Blokto Park v2\r\n\r\nNow with a whole new outdoor section and a day/night cycle!\r\n\r\nHold Space to change time of day.\r\nPress L to toggle the lights.\r\n\r\nThanks to ThatDamnVato for the random spawn BluePrint!",
+      "Version": 2.0,
+      "Author": "JammieDodger",
+      "DownloadLink": "rsmm://MegaFile/V75wDBjD#VEkb-RKkWv1oGDl-Pzyq7p20xQRAu9VCswQhywvcTMA",
+      "PreviewImage": "https://raw.githubusercontent.com/JammieDodgerr/jammie_session_mods/master/BloktoPark/Screenshots/preview.png",
+      "Category": "session-maps",
+      "UpdatedDate": "2021-07-04T23:00:00Z"
+    }
+  ]
+}
